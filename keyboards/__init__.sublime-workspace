@@ -1,0 +1,853 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"sta",
+				"start_menu_uz"
+			],
+			[
+				"I",
+				"InlineKeyboardButton"
+			],
+			[
+				"get",
+				"get_lang_user"
+			],
+			[
+				"us",
+				"userlang"
+			],
+			[
+				"use",
+				"user_id"
+			],
+			[
+				"che",
+				"check_user"
+			],
+			[
+				"sa",
+				"set_lang_user"
+			],
+			[
+				"la",
+				"lang"
+			],
+			[
+				"In",
+				"InlineKeyboardButton"
+			],
+			[
+				"Inlin",
+				"InlineKeyboardButton"
+			],
+			[
+				"uc",
+				"uc_db"
+			],
+			[
+				"UserSc",
+				"UserSocreDB"
+			],
+			[
+				"user",
+				"user_id="
+			],
+			[
+				"tu",
+				"true_answer_id"
+			],
+			[
+				"poll",
+				"poll_id"
+			],
+			[
+				"po",
+				"poll_answer"
+			],
+			[
+				"quiz",
+				"quize_id="
+			],
+			[
+				"option",
+				"option_ids"
+			],
+			[
+				"ond",
+				"on_shutdown_notify"
+			],
+			[
+				"pol",
+				"poll_answer"
+			],
+			[
+				"on_",
+				"on_shutdown"
+			],
+			[
+				"i",
+				"ifmain\tif __name__ == '__main__'"
+			],
+			[
+				"cout",
+				"country"
+			],
+			[
+				"el",
+				"elif"
+			],
+			[
+				"price",
+				"price_"
+			],
+			[
+				"count",
+				"country="
+			],
+			[
+				"coun",
+				"country_"
+			],
+			[
+				"if",
+				"ifmain\tif __name__ == '__main__'"
+			],
+			[
+				"da",
+				"datetime"
+			],
+			[
+				"ortga",
+				"ortga_to_main"
+			],
+			[
+				"data",
+				"data_1"
+			],
+			[
+				"tit",
+				"title"
+			],
+			[
+				"Input",
+				"InputMediaPhoto"
+			],
+			[
+				"async",
+				"async_save"
+			],
+			[
+				"run",
+				"run_until_complete"
+			],
+			[
+				"async_",
+				"async_convert"
+			],
+			[
+				"pdf",
+				"pdf_filename"
+			],
+			[
+				"or",
+				"ortga_to_main"
+			],
+			[
+				"but",
+				"buttons"
+			],
+			[
+				"ort",
+				"ortga_to_panel"
+			],
+			[
+				"se",
+				"service"
+			],
+			[
+				"get_p",
+				"get_phone"
+			],
+			[
+				"Ar",
+				"Argentina"
+			],
+			[
+				"Avs",
+				"Avstriya"
+			],
+			[
+				"nump",
+				"numpy_end_time"
+			],
+			[
+				"num",
+				"numpy_start_time"
+			],
+			[
+				"ara",
+				"array_start_time"
+			],
+			[
+				"len",
+				"len_splits"
+			],
+			[
+				"mes",
+				"message"
+			],
+			[
+				"by",
+				"bytes_"
+			],
+			[
+				"edi",
+				"edit_text"
+			],
+			[
+				"search",
+				"search_film_with_code"
+			],
+			[
+				"co",
+				"continuity"
+			],
+			[
+				"save",
+				"save_film"
+			],
+			[
+				"check",
+				"check_film_code"
+			],
+			[
+				"text",
+				"text="
+			],
+			[
+				"get_film",
+				"get_film_data"
+			],
+			[
+				"vi",
+				"views_db"
+			],
+			[
+				"get_",
+				"get_top_films"
+			],
+			[
+				"film",
+				"film_code"
+			],
+			[
+				"dele",
+				"delete_film"
+			],
+			[
+				"ra",
+				"get_random_film"
+			],
+			[
+				"ex",
+				"except"
+			],
+			[
+				"s",
+				"sqlite3"
+			],
+			[
+				"fu",
+				"fullname"
+			],
+			[
+				"ms",
+				"msg_id"
+			],
+			[
+				"me",
+				"message_id"
+			],
+			[
+				"ge",
+				"get_film_code"
+			],
+			[
+				"fi",
+				"films_list"
+			],
+			[
+				"FIl",
+				"FilmViewsCount"
+			],
+			[
+				"Film",
+				"FilmViewsCount"
+			],
+			[
+				"call",
+				"callback_query_handler"
+			],
+			[
+				"kin",
+				"kino_kod"
+			],
+			[
+				"re",
+				"reply_markup="
+			],
+			[
+				"frm",
+				"from_country"
+			],
+			[
+				"qu",
+				"quality"
+			],
+			[
+				"answer_",
+				"answer_video"
+			],
+			[
+				"fil",
+				"file_id="
+			],
+			[
+				"films",
+				"films_db"
+			],
+			[
+				"m",
+				"my_list"
+			],
+			[
+				"que",
+				"query_text"
+			],
+			[
+				"GET",
+				"get_films_data"
+			],
+			[
+				"get_df",
+				"get_films_data"
+			],
+			[
+				"thum",
+				"thumb_height="
+			],
+			[
+				"thu",
+				"thumb_height="
+			],
+			[
+				"Inline",
+				"InlineQueryResultArticle"
+			],
+			[
+				"phot",
+				"photo_url="
+			],
+			[
+				"de",
+				"description="
+			],
+			[
+				"thumb",
+				"thumb_url="
+			],
+			[
+				"in",
+				"inline_keyboard="
+			],
+			[
+				"pa",
+				"path_to_db="
+			],
+			[
+				"Us",
+				"UserTTS"
+			],
+			[
+				"User",
+				"UserTTS"
+			],
+			[
+				"chat",
+				"ChatGPT"
+			],
+			[
+				"del",
+				"del_users"
+			],
+			[
+				"foydala",
+				"foydalanuvchi"
+			],
+			[
+				"ne",
+				"next_"
+			],
+			[
+				"nex",
+				"next_"
+			],
+			[
+				"cal",
+				"callback_data"
+			],
+			[
+				"chan",
+				"chan_id"
+			],
+			[
+				"cha",
+				"channels"
+			],
+			[
+				"Un",
+				"InlineKeyboardButton"
+			],
+			[
+				"crea",
+				"create_table"
+			],
+			[
+				"ch",
+				"channel"
+			],
+			[
+				"CH",
+				"CHANNELS"
+			],
+			[
+				"cl",
+				"class\tNew Class"
+			],
+			[
+				"send",
+				"send_message"
+			],
+			[
+				"resi",
+				"resized_photo"
+			],
+			[
+				"rea",
+				"reader"
+			],
+			[
+				"conten",
+				"content"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"green",
+				"greenyellow"
+			],
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"fon",
+				"font-family"
+			],
+			[
+				"li",
+				"li"
+			],
+			[
+				"secre",
+				"secret_key_creator"
+			],
+			[
+				"sec",
+				"select_user"
+			],
+			[
+				"sel",
+				"select_all_users"
+			],
+			[
+				"__",
+				"__name"
+			],
+			[
+				"down",
+				"download"
+			],
+			[
+				"vide",
+				"video_data"
+			],
+			[
+				"vdi",
+				"video_data"
+			],
+			[
+				"exec",
+				"except"
+			],
+			[
+				"stre",
+				"stream"
+			],
+			[
+				"str",
+				"stream"
+			],
+			[
+				"ste",
+				"stream"
+			],
+			[
+				"full",
+				"full_name"
+			],
+			[
+				"strem",
+				"stream"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"AutoDocstring: Current"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"anaco",
+				"Package Control: Discover Packages"
+			],
+			[
+				"codeuim",
+				"Codeium: Enable Plugin"
+			],
+			[
+				"codemiu",
+				"Codeium: Enable Plugin"
+			],
+			[
+				"pyth",
+				"Build With: Python"
+			],
+			[
+				"Snippet: h",
+				"Snippet: Method"
+			],
+			[
+				"p",
+				"Build With: Python"
+			],
+			[
+				"python",
+				"Build With: Python"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 213.0,
+		"history":
+		[
+			"focus()",
+			"exit()",
+			"import me",
+			"python",
+			"exit()",
+			"exit",
+			"Running py -u D:\\Abdurahmon\\MyBotsMBT\\dls_player_finder\\app.py\n",
+			"pyhton",
+			"exit()",
+			"exit",
+			"Running py -u D:\\Abdurahmon\\MyBotsMBT\\dls_player_finder\\app.py\n"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/Abdurahmon/MyBotsMBT/PoytaxtTopBot/keyboards/inline/buttons.py",
+		"/D/Abdurahmon/MyBotsMBT/PoytaxtTopBot/handlers/users/start.py",
+		"/D/Abdurahmon/MyBotsMBT/PoytaxtTopBot/handlers/users/main.py",
+		"/D/Abdurahmon/MyBotsMBT/PoytaxtTopBot/utils/db_api/sqlite.py",
+		"/D/Abdurahmon/MyBotsMBT/PoytaxtTopBot/app.py",
+		"/D/Abdurahmon/MyBotsMBT/PoytaxtTopBot/handlers/users/adminPanel.py",
+		"/C/Users/User 10/AppData/Local/Programs/Python/Python39/lib/site-packages/aiogram/dispatcher/filters/filters.py",
+		"/D/Abdurahmon/MyBotsMBT/PoytaxtTopBot/filters/private_chat_filter.py",
+		"/D/Abdurahmon/MyBotsMBT/PoytaxtTopBot/handlers/users/__init__.py",
+		"/D/Abdurahmon/MyBotsMBT/PoytaxtTopBot/filters/as no attriprivate_chat_filter.py",
+		"/D/Abdurahmon/MyBotsMBT/PoytaxtTopBot/.env",
+		"/D/Abdurahmon/MyBotsMBT/PoytaxtTopBot/filters/group_filter.py",
+		"/D/Abdurahmon/MyBotsMBT/PoytaxtTopBot/utils/set_bot_commands.py",
+		"/D/Abdurahmon/MyBotsMBT/PoytaxtTopBot/handlers/users/help.py",
+		"/D/Abdurahmon/MyBotsMBT/PoytaxtTopBot/filters/private_chat.py",
+		"/D/Abdurahmon/MyBotsMBT/PoytaxtTopBot/handlers/users/echo.py",
+		"/D/Abdurahmon/MyBotsMBT/PoytaxtTopBot/loader.py",
+		"/D/Abdurahmon/MyBotsMBT/PoytaxtTopBot/keyboards/default/buttons.py",
+		"/D/Abdurahmon/MyBotsMBT/get_sms_bot/handlers/users/get_number_prices.py",
+		"/D/Abdurahmon/MyBotsMBT/VirtuGPT/handlers/users/adminPanel.py",
+		"/D/Abdurahmon/MyBotsMBT/VirtuGPT/loader.py",
+		"/D/Abdurahmon/MyBotsMBT/poytaxt bot/handlers/users/main_poll.py",
+		"/C/Users/User 10/AppData/Local/Programs/Python/Python39/lib/site-packages/aiogram/dispatcher/handler.py",
+		"/D/Abdurahmon/MyBotsMBT/PoytaxtTopBot/utils/misc/CapitalData.py",
+		"/D/Abdurahmon/MyBotsMBT/PoytaxtTopBot/middlewares/check_subs.py",
+		"/D/Abdurahmon/MyBotsMBT/get_sms_bot/handlers/users/adminPanel.py",
+		"/D/Abdurahmon/MyBotsMBT/get_sms_bot/loader.py",
+		"/D/Abdurahmon/MyBotsMBT/get_sms_bot/utils/api.py",
+		"/D/Abdurahmon/MyBotsMBT/get_sms_bot/utils/get_number.py",
+		"/D/Abdurahmon/MyBotsMBT/get_sms_bot/keyboards/default/telegram_uber.py",
+		"/D/Abdurahmon/MyBotsMBT/get_sms_bot/handlers/users/admin_change_prices.py",
+		"/D/Abdurahmon/MyBotsMBT/get_sms_bot/handlers/users/buy_number.py",
+		"/D/Abdurahmon/MyBotsMBT/get_sms_bot/keyboards/inline/admin_keys.py",
+		"/D/Abdurahmon/MyBotsMBT/get_sms_bot/.env",
+		"/D/Abdurahmon/MyBotsMBT/get_sms_bot/app.py",
+		"/C/Users/User 10/AppData/Local/Programs/Python/Python39/lib/site-packages/pyonlinesim/clients/sms.py",
+		"/C/Users/User 10/AppData/Local/Programs/Python/Python39/Lib/site-packages/pyonlinesim/core/abc/client.py",
+		"/D/Abdurahmon/MyBotsMBT/get_sms_bot/middlewares/checkSub.py",
+		"/C/Users/User 10/AppData/Local/Programs/Python/Python39/lib/asyncio/base_events.py",
+		"/C/Users/User 10/AppData/Local/Programs/Python/Python39/lib/site-packages/aiohttp/connector.py",
+		"/C/Users/User 10/AppData/Local/Programs/Python/Python39/lib/site-packages/aiohttp/client.py",
+		"/D/Abdurahmon/MyBotsMBT/get_sms_bot/handlers/users/main.py",
+		"/C/Users/User 10/AppData/Local/Programs/Python/Python39/Lib/site-packages/pyonlinesim/types/sms/state.py",
+		"/C/Users/User 10/AppData/Local/Programs/Python/Python39/Lib/site-packages/pyonlinesim/types/sms/number_stats.py",
+		"/C/Users/User 10/AppData/Local/Programs/Python/Python39/Lib/site-packages/pyonlinesim/__init__.py",
+		"/C/Users/User 10/AppData/Local/Programs/Python/Python39/lib/site-packages/pyonlinesim/core/abc/client.py",
+		"/D/Abdurahmon/MyBotsMBT/get_sms_bot/keyboards/default/buttons.py",
+		"/D/Abdurahmon/MyBotsMBT/get_sms_bot/handlers/users/__init__.py",
+		"/D/Abdurahmon/MyBotsMBT/get_sms_bot/utils/db_api/sqlite.py",
+		"/D/Abdurahmon/MyBotsMBT/get_sms_bot/handlers/users/top_up_balance.py",
+		"/D/Abdurahmon/MyBotsMBT/get_sms_bot/utils/db_api/sqlite — копия.py",
+		"/D/Abdurahmon/MyBotsMBT/get_sms_bot/middlewares/check_subs.py",
+		"/D/Abdurahmon/Portfolio/app.js",
+		"/C/Users/User 10/Desktop/MyFile.py",
+		"/D/Abdurahmon/MyBotsMBT/get_sms_bot/handlers/users/start.py",
+		"/D/Abdurahmon/MyBotsMBT/get_sms_bot/keyboards/default/microsoft_apple.py",
+		"/D/Abdurahmon/MyBotsMBT/get_sms_bot/keyboards/default/yandex_gmail.py",
+		"/D/Abdurahmon/MyBotsMBT/get_sms_bot/keyboards/default/avito_samokat_sbermarket.py",
+		"/D/Abdurahmon/MyBotsMBT/get_sms_bot/Find Results",
+		"/C/Users/User 10/AppData/Local/Programs/Python/Python39/lib/site-packages/aiogram/bot/bot.py",
+		"/C/Users/User 10/Downloads/Telegram Desktop/uzmovi-main/uzmovi-main/code.py",
+		"/D/Abdurahmon/Abdurahmon/web dasturlarim/HTML/Kodlar/I BOB/2-dars/index.html",
+		"/D/Abdurahmon/MyBotsMBT/Sara/handlers/users/main_code.py",
+		"/D/Abdurahmon/MyBotsMBT/JPG to PDF/app.py",
+		"/C/Users/User 10/Downloads/Telegram Desktop/davlatlar.json",
+		"/C/Users/User 10/Downloads/Telegram Desktop/api.py",
+		"/D/Abdurahmon/MyBotsMBT/JPG to PDF/handlers/users/apif.py",
+		"/D/dv_mal.py",
+		"/D/Abdurahmon/MyBotsMBT/get_sms_bot/keyboards/default/vkontakte_tiktok.py",
+		"/D/Abdurahmon/MyBotsMBT/get_sms_bot/keyboards/default/amazon_discord.py",
+		"/C/Users/User 10/AppData/Local/Programs/Python/Python39/Lib/site-packages/pdf2docx/converter.py",
+		"/C/Users/User 10/AppData/Local/Programs/Python/Python39/Lib/site-packages/pdf2docx/layout/Blocks.py",
+		"/D/Abdurahmon/MyBotsMBT/get_sms_bot/handlers/users/help.py",
+		"/D/Abdurahmon/MyBotsMBT/get_sms_bot/keyboards/default/ebay_tinder.py",
+		"/D/Abdurahmon/MyBotsMBT/get_sms_bot/keyboards/default/paypal_steam.py",
+		"/C/Users/User 10/Downloads/Telegram Desktop/apif.py",
+		"/D/Abdurahmon/MyBotsMBT/JPG to PDF/keyboards/default/photo_keyboards.py",
+		"/D/Abdurahmon/MyBotsMBT/JPG to PDF/handlers/users/__init__.py",
+		"/D/Abdurahmon/MyBotsMBT/get_sms_bot/keyboards/default/instagram_facebook.py",
+		"/D/Abdurahmon/MyBotsMBT/get_sms_bot/keyboards/default/twitter_whatsup.py",
+		"/D/Abdurahmon/MyBotsMBT/get_sms_bot/utils/set_bot_commands.py",
+		"/C/Users/User 10/AppData/Local/Programs/Python/Python39/lib/site-packages/aiogram/utils/exceptions.py",
+		"/D/Abdurahmon/MyBotsMBT/get_sms_bot/utils/models/balance.py",
+		"/D/Abdurahmon/MyBotsMBT/get_sms_bot/utils/models/state.py",
+		"/C/Users/User 10/Downloads/Telegram Desktop/tt.py",
+		"/D/Abdurahmon/MyBotsMBT/get_sms_bot/utils/logger.py",
+		"/D/Abdurahmon/MyBotsMBT/get_sms_bot/data/config.py",
+		"/D/Abdurahmon/MyBotsMBT/get_sms_bot/utils/models/phone_number.py",
+		"/D/Abdurahmon/MyBotsMBT/get_sms_bot/utils/models/operation.py",
+		"/D/Abdurahmon/MyBotsMBT/get_sms_bot/utils/models/__init__.py",
+		"/C/Users/User 10/Downloads/Telegram Desktop/Areas.txt",
+		"/C/Users/User 10/Downloads/Telegram Desktop/matrix-Firdavs.html",
+		"/D/Abdurahmon/MyBotsMBT/AllSaverBot/handlers/users/name.py",
+		"/D/Abdurahmon/MyBotsMBT/AllSaverBot/handlers/users/start.py",
+		"/D/Abdurahmon/MyBotsMBT/AllSaverBot/keyboards/default/main_keyboards.py",
+		"/D/Abdurahmon/MyBotsMBT/AllSaverBot/app.py",
+		"/D/Abdurahmon/MyBotsMBT/AllSaverBot/handlers/users/main_code.py",
+		"/C/Users/User 10/Downloads/Telegram Desktop/name.py",
+		"/C/Users/User 10/Downloads/Telegram Desktop/insta_api.py",
+		"/C/Users/User 10/AppData/Local/Programs/Python/Python39/lib/site-packages/requests/sessions.py",
+		"/D/Abdurahmon/MyBotsMBT/Sara/handlers/users/__init__.py",
+		"/D/Abdurahmon/MyBotsMBT/imlo-bot/main.py",
+		"/D/Abdurahmon/MyBotsMBT/Sara/data/config.py",
+		"/D/Abdurahmon/MyBotsMBT/Sara/handlers/users/help.py",
+		"/D/Abdurahmon/MyBotsMBT/Sara/handlers/users/adminPanel.py",
+		"/D/Abdurahmon/MyBotsMBT/Sara/utils/set_bot_commands.py",
+		"/D/Abdurahmon/MyBotsMBT/Sara/app.py",
+		"/D/Abdurahmon/MyBotsMBT/imlo-bot/uzwords.py",
+		"/D/Abdurahmon/MyBotsMBT/imlo-bot/checkWord.py",
+		"/D/Abdurahmon/MyBotsMBT/Sara/keyboards/inline/main_keyboards.py",
+		"/D/Abdurahmon/MyBotsMBT/Sara/keyboards/inline/admin_keys.py",
+		"/D/Abdurahmon/MyBotsMBT/Sara/handlers/users/start.py",
+		"/D/Abdurahmon/MyBotsMBT/Sara/utils/db_api/sqlite.py",
+		"/D/4 лик чип/seemoethodsmoduletest.py",
+		"/D/Abdurahmon/MyBotsMBT/Sara/middlewares/checkSub.py",
+		"/D/Abdurahmon/MyBotsMBT/Sara/loader.py",
+		"/D/Abdurahmon/MyBotsMBT/Sara — копия/keyboards/inline/admin_keys.py",
+		"/D/Abdurahmon/MyBotsMBT/Sara — копия/handlers/users/adminPanel.py",
+		"/D/Abdurahmon/MyBotsMBT/Sara/states/states.py",
+		"/D/Abdurahmon/MyBotsMBT/Sara/utils/misc/subscription.py",
+		"/D/Abdurahmon/MyBotsMBT/Sara/utils/notify_admins.py",
+		"/D/Abdurahmon/MyBotsMBT/Sara/.env",
+		"/D/Abdurahmon/MyBotsMBT/Sara/handlers/users/echo.py",
+		"/C/Users/User 10/AppData/Local/Programs/Python/Python39/lib/asyncio/windows_events.py",
+		"/D/Abdurahmon/MyBotsMBT/VirtuGPT/.env",
+		"/D/Abdurahmon/MyBotsMBT/VirtuGPT/utils/db_api/sqlite.py",
+		"/D/Abdurahmon/MyBotsMBT/VirtuGPT/middlewares/__init__.py",
+		"/D/Abdurahmon/MyBotsMBT/VirtuGPT/utils/misc/tts.py"
+	],
+	"find":
+	{
+		"height": 32.0
+	},
+	"find_in_files":
+	{
+		"height": 647.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 209.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "__init__.sublime-project",
+	"replace":
+	{
+		"height": 60.0
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 207.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
