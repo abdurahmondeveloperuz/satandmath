@@ -19,3 +19,4 @@ yarl==1.9.2
 gunicorn
 requests
 apscheduler
+flask
