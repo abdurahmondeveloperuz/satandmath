@@ -44,6 +44,6 @@ data = {
 async def postRatings(data, params, headers=headers, url=url):
     async with aiohttp.ClientSession() as session:
         async with session.post(url, headers=headers, params=params, json=data) as response:
-            return await response.json()
+            return await response
 
 # postRatings(data=data, params=params)
