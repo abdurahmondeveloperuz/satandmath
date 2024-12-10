@@ -18,3 +18,4 @@ pytz==2023.3
 yarl==1.9.2
 gunicorn
 requests
+apscheduler
