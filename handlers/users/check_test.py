@@ -25,6 +25,11 @@ async def start_bot(message: types.Message, state: FSMContext):
     await message.answer(f"<b>✍️ Test kodini yuboring:</b>\n\n📃 Test kodi @uzsatmath kanalidan olishingiz mumkin!", reply_markup=back)
     await state.set_state("test_code")
 
+@dp.message_handler(IsPrivate())
+async def start_bot(message: types.Message, state: FSMContext):
+    await message.answer(f"<b>✍️ Test kodini yuboring:</b>\n\n📃 Test kodi @uzsatmath kanalidan olishingiz mumkin!", reply_markup=back)
+    await state.set_state("test_code")
+
 @dp.message_handler(IsPrivate(), state="test_code")
 async def check_test_id(message: types.Message, state: FSMContext):
     test_id = message.text
